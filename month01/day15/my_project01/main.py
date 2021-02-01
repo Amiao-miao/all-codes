@@ -1,0 +1,3 @@
+from skill_system import skill_manager
+
+manager=skill_manager

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c5a3f7f-7b35-4e82-93a5-84640af34339" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="ProjectId" id="1koBODefVAsruac87DJnWiNkzgE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../month01" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day17" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day16" />
+      <recent name="$PROJECT_DIR$/day12" />
+      <recent name="$PROJECT_DIR$/day11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day19" />
+      <recent name="$PROJECT_DIR$/day05" />
+      <recent name="$PROJECT_DIR$/day04" />
+      <recent name="$PROJECT_DIR$/day03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dict_server">
+    <configuration name="dict_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19/dict_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19/dict_server/dict_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17/exercise01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17/exercise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17/http_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="select_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day16/select_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dict_server" />
+        <item itemvalue="Python.exercise02" />
+        <item itemvalue="Python.exercise01" />
+        <item itemvalue="Python.http_test" />
+        <item itemvalue="Python.select_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c5a3f7f-7b35-4e82-93a5-84640af34339" name="Default Changelist" comment="" />
+      <created>1606357029591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606357029591</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add *">
+      <created>1608522041818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608522041818</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1608522097768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608522097768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add ignore">
+      <created>1608522495878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608522495878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tom add">
+      <created>1608534526787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608534526787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="miao add">
+      <created>1608535051487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608535051487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zhu add">
+      <created>1608535958839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608535958839</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tom add">
+      <created>1608536008473</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608536008473</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add *" />
+    <MESSAGE value="add readme" />
+    <MESSAGE value="add ignore" />
+    <MESSAGE value="miao add" />
+    <MESSAGE value="zhu add" />
+    <MESSAGE value="tom add" />
+    <option name="LAST_COMMIT_MESSAGE" value="tom add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="351" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608535022485">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="607" y="351" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1608535022485" />
+    <state x="461" y="360" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606725348909">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="461" y="360" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1606725348909" />
+    <state x="885" y="159" width="871" height="843" key="CommitChangelistDialog2" timestamp="1608536008399">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="885" y="159" width="871" height="843" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1608536008399" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1607418713055">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1607418713055" />
+    <state x="717" y="310" key="FileChooserDialogImpl" timestamp="1609985938811">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="717" y="310" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1609985938811" />
+    <state width="1827" height="258" key="GridCell.Tab.0.bottom" timestamp="1608636297213">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1827" height="258" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1608636297213" />
+    <state width="1827" height="258" key="GridCell.Tab.0.center" timestamp="1608636297212">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1827" height="258" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1608636297212" />
+    <state width="1827" height="258" key="GridCell.Tab.0.left" timestamp="1608636297212">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1827" height="258" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1608636297212" />
+    <state width="1827" height="258" key="GridCell.Tab.0.right" timestamp="1608636297212">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1827" height="258" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1608636297212" />
+    <state x="709" y="469" width="559" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608521975791">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="709" y="469" width="559" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1608521975791" />
+    <state x="633" y="257" width="719" height="678" key="search.everywhere.popup" timestamp="1607939293049">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="633" y="257" width="719" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1607939293049" />
+  </component>
+</project>
